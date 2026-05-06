@@ -4,3 +4,4 @@ logs
 lora_roberta_lucid_motors
 README.md
 train.log
+.gitignore
